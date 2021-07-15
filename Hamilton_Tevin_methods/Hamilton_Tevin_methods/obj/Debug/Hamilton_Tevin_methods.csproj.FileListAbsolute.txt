@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_methods\Hamilton_Tevin_methods\bin\Debug\Hamilton_Tevin_methods.exe.config
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_methods\Hamilton_Tevin_methods\bin\Debug\Hamilton_Tevin_methods.exe
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_methods\Hamilton_Tevin_methods\bin\Debug\Hamilton_Tevin_methods.pdb
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_methods\Hamilton_Tevin_methods\obj\Debug\Hamilton_Tevin_methods.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_methods\Hamilton_Tevin_methods\obj\Debug\Hamilton_Tevin_methods.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_methods\Hamilton_Tevin_methods\obj\Debug\Hamilton_Tevin_methods.exe
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_methods\Hamilton_Tevin_methods\obj\Debug\Hamilton_Tevin_methods.pdb
